@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+<category><pattern>XSET ENV *</pattern>
+<template>Environment is <set name="env"><star/></set></template>
+</category>
+<category><pattern>XSET DEVICE *</pattern>
+<template>Device is <set name="device"><star/></set></template>
+</category>
+
+</aiml>
