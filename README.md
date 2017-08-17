@@ -1,11 +1,10 @@
 # Nemesis - TheChatbot
----
----
+
 Nemesis is a chatbot made using Artificial Intelligence Markup Language(AIML).
 The bot can be customised to cater to any specific requirement of work.
 
  # Bot Files Description
- ---
+ 
  ### AIML
  These files are core bot files.Any changes to these files will reflect into the changes of the bot responses.Current AIML file base can be modified to use the bot for any specific use like FAQ bot,etc.
  
@@ -25,5 +24,5 @@ The bot can be customised to cater to any specific requirement of work.
 - These file contain the default properties and characteristics of the bot.
 - These can be modified to add more traits for the bot.
 # Bot Deployment
- ---
+ 
 - The bot can be deployed using the pandorabots api(AIaaS).
